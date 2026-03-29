@@ -1,0 +1,8 @@
+﻿role_category,job_count,avg_skill_count,remote_jobs,hybrid_jobs,remote_pct,hybrid_pct
+Business Analyst,54,0.94,10,28,18.52,51.85
+Data Engineer,35,5.46,4,17,11.43,48.57
+ML Engineer,18,3.06,11,7,61.11,38.89
+Data Scientist,13,3.92,4,10,30.77,76.92
+Other,8,3.38,3,6,37.5,75.0
+Data Analyst,7,4.29,0,2,0.0,28.57
+BI / Analytics,4,4.0,1,0,25.0,0.0
