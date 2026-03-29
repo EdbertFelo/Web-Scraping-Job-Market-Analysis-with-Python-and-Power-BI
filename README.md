@@ -52,7 +52,11 @@ This project answers questions such as:
 
 ## Dashboard Preview
 
-Add your dashboard screenshots here after uploading them.
+### Overview Page
+![Overview Page](images/overview_page.png)
+
+### Skills Deep Dive Page
+![Skills Deep Dive Page](images/skills_deep_dive.png)
 
 ## Repository Structure
 
