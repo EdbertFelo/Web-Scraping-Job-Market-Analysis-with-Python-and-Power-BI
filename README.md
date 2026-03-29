@@ -71,11 +71,11 @@ This project answers questions such as:
    `pip install requests pandas numpy beautifulsoup4`
 
 2. Run the scripts in order:
-   - `01_collect_greenhouse_jobs.py`
-   - `02_clean_greenhouse_jobs.py`
-   - `03_extract_skills.py`
-   - `04_prepare_dashboard_dataset.py`
-   - `05_create_dashboard_tables.py`
+   -01 `scrape_greenhouse.py`
+   -02 `clean_greenhouse.py`
+   -03 `extract_skills.py`
+   -04 `dashboard_dataset.py`
+   -05 `create_dashboard.py`
 
 3. Open the Power BI file:
    - `job_market_dashboard.pbix`
